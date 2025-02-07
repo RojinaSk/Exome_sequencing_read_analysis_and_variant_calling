@@ -71,7 +71,7 @@ Also generate a single VCF/BCF file using samtool to process all the three bam f
 
 Note:
 
-The format of VCF files is described in detail here: https://samtools.github.io/hts-specs/VCFv4.2.pdfLinks to an external site. and here: https://en.wikipedia.org/wiki/Variant_Call_FormatLinks to an external site..
+The format of VCF files is described in detail here: https://samtools.github.io/hts-specs/VCFv4.2.pdfLinks to an external site. and here: https://en.wikipedia.org/wiki/Variant_Call_Format Links to an external site..
 VCF files (or binary form bcf files) are used for further genetics analyses.
 Here is an example of a vcf fileLinks to an external site. of a family trio from 1000 genome project. The file can be downloaded hereLinks to an external site..
  
