@@ -1,5 +1,5 @@
 # Exome_sequencing_read_analysis_and_variant_calling
-Working with commonly used NGS tools to process and analyze short read data from the 1000 genome project. These tools including Bowtie 2Links to an external site., SAMtools/ BCFtoolsLinks to an external site. and IGVLinks to an external site.. You will analyze genome sequencing data from IGSR/1000 Genome ProjectLinks to an external site. using human genome reference hg38 from UCSC genome browserLinks to an external site..
+Working with commonly used NGS tools to process and analyze short read data from the 1000 genome project. These tools including [Bowtie 2Links to an external site.](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml), http://www.htslib.org/download/ , http://software.broadinstitute.org/software/igv/ . You will analyze genome sequencing data from IGSR/1000 Genome Project[Links to an external site](https://www.internationalgenome.org/data-portal/sample). using human genome reference hg38 from UCSC genome browser[Links to an external site..](https://hgdownload.cse.ucsc.edu/goldenpath/hg38/chromosomes/).
 
  
 
