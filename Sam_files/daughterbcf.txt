@@ -1,0 +1,11 @@
+##INFO=<ID=I16,Number=16,Type=Float,Description="Auxiliary tag used for calling, see description of bcf_callret1_t in bam2bcf.h">
+##INFO=<ID=QS,Number=R,Type=Float,Description="Auxiliary tag used for calling">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="List of Phred-scaled genotype likelihoods">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths (high-quality bases)">
+##bcftools_viewVersion=1.21+htslib-1.21
+##bcftools_viewCommand=view -Ov -; Date=Fri Feb  7 19:58:51 2025
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	daughter.sorted.bam
+chr19	60115	.	G	<*>	0	.	DP=1;I16=1,0,0,0,40,1600,0,0,42,1764,0,0,0,0,0,0;QS=1,0;MQ0F=0	PL:AD	0,3,40:1,0
+chr19	60116	.	G	<*>	0	.	DP=1;I16=1,0,0,0,40,1600,0,0,42,1764,0,0,1,1,0,0;QS=1,0;MQ0F=0	PL:AD	0,3,40:1,0
+chr19	60117	.	G	<*>	0	.	DP=1;I16=1,0,0,0,40,1600,0,0,42,1764,0,0,2,4,0,0;QS=1,0;MQ0F=0	PL:AD	0,3,40:1,0
+chr19	60118	.	C	<*>	0	.	DP=1;I16=1,0,0,0,40,1600,0,0,42,1764,0,0,3,9,0,0;QS=1,0;MQ0F=0	PL:AD	0,3,40:1,0
