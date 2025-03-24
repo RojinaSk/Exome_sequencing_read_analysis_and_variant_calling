@@ -71,7 +71,7 @@ VCF files (or binary form bcf files) are used for further genetics analyses.
 Here is an example of a vcf fileLinks to an external site. of a family trio from 1000 genome project. The file can be downloaded hereLinks to an external site..
  
 
-## Visualization of read alignments and variants by IGVLinks to an external site..
+## Visualization of read alignments and variants by IGV
 Install IGV in your machine from http://software.broadinstitute.org/software/igv/homeLinks to an external site..
 Open IGV and select “Genomes” in the top menu to choose “Load Genome From File…”
 Load the chromosome file “chrxx.fa” and it will be used as the reference sequence in the visualization.
